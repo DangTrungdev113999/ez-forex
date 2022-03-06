@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "313061478362",
+    "project_id": "ezforex-7515e",
+    "storage_bucket": "ezforex-7515e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313061478362:android:7391938836c86ca49d3ae3",
+        "android_client_info": {
+          "package_name": "com.ezforex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313061478362-jj2tffqnr143s7dn9rk3ki2qpu9h406m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrr2-nldQOH94lDcVYB1BYUydTyCyD0jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313061478362-jj2tffqnr143s7dn9rk3ki2qpu9h406m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313061478362-nq681579heaq0knp5nsu7epu1kurso8t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ezforex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

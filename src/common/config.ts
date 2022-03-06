@@ -1,0 +1,25 @@
+export const CODE_DEFAULT = -200;
+export const CODE_SUCCESS = 200;
+export const TIME_OUT_REQUEST_API = 300000;
+
+export const STATUS_HTTPS = {
+  UNAUTHENTICATED: 401,
+  GREATER_RANGE_SUCCESS: 200,
+  SMALLER_RANGE_SUCCESS: 300,
+};
+
+export const CODEPUSH_ANDROID_PRODUCTION_KEY = 'wKKTRMoMxYTvqHnj_xKZvCPYhz5TN3-7MjclT';
+export const CODEPUSH_ANDROID_STAGING_KEY = 'D7oUKgLxLT_P5FnuqmUV1d-kkqNYd-4tJraGz';
+export const CODEPUSH_ANDROID_DEBUG_KEY = 'OmxFAClezvkNVcQ5Lvklj4xG_3PAjot5yHPgQ';
+
+export const CODEPUSH_IOS_PRODUCTION_KEY = '_cFzjVedL1rXAGCZKZ7bkhX3aWRy6s6DyoazF';
+export const CODEPUSH_IOS_STAGING_KEY = 'X_n3i8mcCu1Hv-jc59FxjVDbaJmRXhJ9MrHHk';
+export const CODEPUSH_IOS_DEBUG_KEY = 'Mbjb7aUQmFAsJu0Xz7HpErrqja20wpLkiwyM8';
+
+export const CHANNEL_ID_NOTIFICATION = 'CHANNEL_ID_EZFOREX';
+export const CHANNEL_NAME_NOTIFICATION = 'CHANNEL_EZFOREX';
+
+export const TOPPIC_SIGNAL = 'signal';
+export const TOPPIC_SYSNOTI = 'sysnoti';
+
+export const VALIDATE_RECEIPT_PASSWORD = '6e7d5b8b88d442288b0d921cf9ba891f';
